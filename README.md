@@ -1,7 +1,7 @@
 # official-project
 This is the official project.
 
-It does x, y, and z.
+It does x, y, z, and new feature.
 
 Longer project description.
 
